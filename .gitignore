@@ -1,6 +1,7 @@
 
 # secret-folder란 이름의 폴더와 그 내용들
-secret-folder/ 
+secret-folder/
+*.config 
 
 # 모든 secret2_user2.yml
 # secret_user2.yml
